@@ -31,6 +31,12 @@
   margin: 1%;
 }
 
+.archive {
+  float: left;
+  width: 32%;
+  margin: 0 0 10px 10px;
+}
+
 .col-2 {
   float: right;
   width: 31%
