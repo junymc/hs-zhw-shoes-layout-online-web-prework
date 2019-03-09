@@ -51,7 +51,7 @@
 }
 
 .col-middle {
-  float: middle;
+  float: both;
   width: 32%;
   margin: 1%
 }
