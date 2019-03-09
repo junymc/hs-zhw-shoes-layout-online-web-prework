@@ -22,6 +22,38 @@
   clear: both;
 }
 
+/**** Layout ****/
+
+
+.featured-brand {
+  float: left;
+  width: 65%
+  display: block;
+  margin: 0%;
+}
+
+.archive {
+  float: right;
+  width: 32%;
+  margin: 10px 0px 10px 10px;
+}
+
+.col-left {
+  float: left;;
+  width: 32%;
+  margin:10px 10px 10px 0px;
+}
+
+.col-right {
+  float: left;
+  width: 32%;
+  margin: 10px 0px 10px 0px;
+}
+
+.col-middle {
+  float: left;
+  width: 32%;
+  margin: 10px 0px 10px 0px;
+}
+
 /* Posititoning Classes */
-
-
