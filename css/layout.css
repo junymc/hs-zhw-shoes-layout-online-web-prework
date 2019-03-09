@@ -28,6 +28,7 @@
 .featured-brand {
   float: left;
   width: 65%
+  display: block;
   margin: 1%;
 }
 
